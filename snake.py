@@ -100,7 +100,7 @@ class Score(Turtle):
 window = Screen()
 window.setup(width=640, height=700)
 window.bgcolor("black")
-window.title("Snake game for CS3750")
+window.title("Snake game")
 window.tracer(0)
 window.listen()
 # Draw the outer frame manually
